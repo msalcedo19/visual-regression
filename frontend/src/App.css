@@ -1,0 +1,28 @@
+.image{
+    height: 240px;
+    width: 400px;
+}
+
+.col-image{
+    margin: 0 30px 0px 0px;
+    padding: 0;
+}
+
+.box{
+    max-width: 150px;
+}
+
+.col-data{
+    padding: 0;
+    min-width: 400px;
+}
+
+.title{
+    white-space: nowrap;
+    font-size: 0.9rem;
+}
+
+.report-btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
